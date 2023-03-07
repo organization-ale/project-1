@@ -17,3 +17,5 @@ class NegativeAgeError(APIException):
 OBS:
 - **status_code**: Atributo vindo da herança utilizado para setar o status code.
 - **default_detail**: Atributo vindo da herança utilizado para definir a mensagem de erro.
+
+dasdsadsada
